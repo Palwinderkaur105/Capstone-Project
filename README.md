@@ -25,6 +25,6 @@ SOL. The Rain Tomorrow attribute's distribution gives information on 'Will it ra
 SOL. I built Logistic Regression, K-Nearest Neighbor, Nave Bayes, and Random Forest Classifiers using this dataset. After that, I use K-fold, Stratified K-fold, and repeated random train-test for cross validation. Then, after comparing accuracies, I discovered that the Random Forest classifier is the best model for my dataset because it has the highest accuracy across all approaches.
 
 ## TOOLS
-I will use python software for performing operations and to visualize our dataset.
+I will use python software for performing operations and to visualize my dataset.
 
 
