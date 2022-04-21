@@ -18,7 +18,7 @@ SOL. The yearly distribution of rainfall demonstrates that the year 2010, 2011 a
 
 3.	Evaluate whether will it be raining tomorrow or not?
 
-SOL. The Rain Tomorrow attribute's distribution gives information on 'Will it rain tomorrow or not?' which has two categories: 'Yes' (Will Rain) and 'No' (Won't Rain) (No Rain). Because yes only accounts for 21.6 percent of the total, whereas no accounts for 78.4 percent, it is evident that there are extremely low odds of rain on the following day. As a result, it is apparent that raining tomorrow will have more effects.
+SOL. The Rain Tomorrow attribute's distribution gives information on 'Will it rain tomorrow or not?' which has two categories: 'Yes' (Will Rain) and 'No' (Won't Rain) (No Rain). So, after visualising I come to know that more than half of the data frequencies were held by ‘No’ and very less frequencies were stored in ‘Yes’ which demonstrates that my target variable is not equally distributed. For getting an accurate result, I need to perform sampling for equally distribution.
 
 4.	Build different classification models and select an optimal model by comparing accuracies of all models.
 
